@@ -1,2 +1,3 @@
-# Ai_TradingJournal
-Ai_TradingJournal
+# AI Trading Journal
+
+[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-mqgwyhf3)
